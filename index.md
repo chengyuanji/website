@@ -10,7 +10,7 @@ My research interests include political culture and political economy. My work h
 
 欢迎来到我的个人网站！季程远，上海交通大学比较政治系副教授，北京大学政治学博士。研究领域为政治文化和政治经济。论文发表见于《政治学研究》《中国行政管理》*Comparative Political Studies*, *Political Communication*, *Political Research Quarterly*, *World Development*等刊物。
 
-[中文个人简历](https://chengyuanji.com/assets/files/cv_ch.pdf)
+[中文简历](https://chengyuanji.com/assets/files/cv_ch.pdf)
 
 {% include_relative _includes/publications.md %}
 
