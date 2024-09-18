@@ -14,3 +14,4 @@ My research interests include political culture and political economy. My work h
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/publications_cn.md %}
