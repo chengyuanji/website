@@ -1,18 +1,18 @@
 # Basic Information 
 title: Chengyuan Ji (季程远)
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+position: Associate Professor
+affiliation: Shanghai Jiao Tong University 
+email: jichengyuan@sjtu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Personal Website of Chengyuan Ji, SJTU
+description: Personal Website of Chengyuan Ji, SJTU
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
+cv_link: assets/files/cv_ch.pdf
 cv_link: assets/files/curriculum_vitae.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
