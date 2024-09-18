@@ -160,7 +160,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 30px;
+      border-radius: 0px;
     }
 
       .image.avatar:before {
@@ -168,7 +168,7 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 30px;
+        border-radius: 0px;
         width: 45%;
         padding: 20px;
         // border: 1px solid #ddd;
@@ -374,7 +374,7 @@ footer {
   width:232px;
   float:left;
   position:fixed;
-  bottom:30px;
+  bottom:0px;
   -webkit-font-smoothing:subpixel-antialiased;
   text-align:center;
 }
@@ -420,7 +420,7 @@ footer {
 
 
    .image.avatar img {
-        border-radius: 30px;
+        border-radius: 0px;
         width: 117px;
         padding:20px;
       }
@@ -476,7 +476,7 @@ footer {
   }
 
   .image.avatar img {
-      border-radius: 30px;
+      border-radius: 0px;
       width: 95px;
       padding:20px;
   }
