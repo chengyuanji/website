@@ -19,3 +19,13 @@ main:
     appendix: https://ars.els-cdn.com/content/image/1-s2.0-S0305750X23003170-mmc1.pdf
     replication: https://doi.org/10.7910/DVN/KCIAHC
     image: ./assets/img/politicaltrust2019.png
+
+  - title: "State as Salesman: International Economic Engagement and Foreign News Coverage in China"
+    authors: <strong>Ji Chengyuan</strong>, Hanzhang Liu
+    conference_short: Political Communication
+    conference: <strong>Political Communication</strong>, 2022.
+    preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956129
+    pdf: https://chengyuanji.wordpress.com/wp-content/uploads/2022/02/ji-and-liu-2022-political-communication.pdf
+    appendix: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956129
+    replication: https://doi.org/10.7910/DVN/JNI6TO
+    image: ./assets/img/oversea_project_favorability.png
