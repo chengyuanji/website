@@ -8,7 +8,7 @@ main:
     Appendix: https://journals.sagepub.com/doi/suppl/10.1177/00104140241269843/suppl_file/sj-pdf-1-cps-10.1177_00104140241269843.pdf
     Replication: https://doi.org/10.7910/DVN/LXHKEV
     image: ./assets/img/teaser_example_2.png
-    notes: [<a href="https://chengyuanji.wordpress.com/wp-content/uploads/2024/08/ji-and-ma-cps.pdf">Preprint</a>][PDF][Appendix][Replication]    
+    notes: ok
 
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
@@ -19,5 +19,5 @@ main:
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: [PDF][Appendix][Replication]
+    notes: ok
     image: ./assets/img/teaser_example.png
