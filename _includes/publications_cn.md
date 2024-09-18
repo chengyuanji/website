@@ -1,6 +1,6 @@
 ## Publications in Chinese (中文发表)
 
-<ul style="line-height: 1.8; text-align:justify; margin: 0 0 20px 0;display: flex; flex-direction: column; gap: 30px;">
+<ul style="line-height: 1.5; text-align:justify; margin: 30px 0 20px 0;display: flex; flex-direction: column; gap: 20px;">
   
   <li><autocolor><b>季程远</b>：《走出以邻为壑：破解边界合作治理困境的自主路径》，《复旦学报（社会科学版）》2024年第3期。(Out of Beggar-Thy-Neighbor: Independent Path for the Dilemma of Border Cooperation Governance)</autocolor><a href="https://chengyuanji.wordpress.com/wp-content/uploads/2024/05/e8b5b0e587bae4bba5e982bbe4b8bae5a391efbc9ae7a0b4e8a7a3e8beb9e7958ce59088e4bd9ce6b2bbe79086e59bb0e5a283e79a84e887aae4b8bbe8b7afe5be84_e5ada3e7a88be8bf9c.pdf">[PDF]</a></li>
   <li><autocolor><b>季程远</b>，胡悦：《经济发展与纵向获得感——基于全球面板数据的分析》，《公共行政评论》2022年第2期。(Economic Development and Temporal Relative Acquisition: Evidence from A Global Dataset)</autocolor><a href="https://chengyuanji.wordpress.com/wp-content/uploads/2024/05/e8b5b0e587bae4bba5e982bbe4b8bae5a391efbc9ae7a0b4e8a7a3e8beb9e7958ce59088e4bd9ce6b2bbe79086e59bb0e5a283e79a84e887aae4b8bbe8b7afe5be84_e5ada3e7a88be8bf9c.pdf">[PDF]</a></li>
