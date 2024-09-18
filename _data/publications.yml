@@ -2,8 +2,8 @@ main:
 
   - title: "Revolutionaries for Railways"
     authors:  <strong>Ji Chengyuan</strong>, Xiao Ma
-    jounal_short: CPS
-    jounal: <strong>Comparative Political Studies</strong>, 2024.
+    conference_short: CPS
+    conference: <strong>Comparative Political Studies</strong>, 2024.
     preprint: https://chengyuanji.wordpress.com/wp-content/uploads/2024/08/ji-and-ma-cps-1.pdf
     pdf: https://chengyuanji.wordpress.com/wp-content/uploads/2024/08/ji-ma-2024-revolutionaries-for-railways.pdf
     appendix: https://journals.sagepub.com/doi/suppl/10.1177/00104140241269843/suppl_file/sj-pdf-1-cps-10.1177_00104140241269843.pdf
@@ -11,13 +11,11 @@ main:
     image: ./assets/img/map_general.png
 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: ok
-    image: ./assets/img/teaser_example.png
+  - title: "Political Trust and Government Performance in the Time of COVID-19"
+    authors: <strong>Ji Chengyuan</strong>, Junyan Jiang, Yujin Zhang
+    conference_short: World Development
+    conference: <strong>World Development</strong>, 2024.
+    pdf: https://chengyuanji.wordpress.com/wp-content/uploads/2024/07/ji-jiang-zhang-2024.pdf
+    appendix: https://ars.els-cdn.com/content/image/1-s2.0-S0305750X23003170-mmc1.pdf
+    replication: https://doi.org/10.7910/DVN/KCIAHC
+    image: ./assets/img/politicaltrust2019.png
