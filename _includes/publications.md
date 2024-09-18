@@ -33,6 +33,9 @@
       {% if link.replication %} 
       <a href="{{ link.replication }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Replication</a>
       {% endif %}
+      {% if link.others %} 
+      {{ link.others }}
+      {% endif %}
     </div>
   </div>
 </div>
