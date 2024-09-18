@@ -1,14 +1,16 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  - title: Revolutionaries for Railways
+    authors:  <strong>Ji Chengyuan</strong>, Xiao Ma
     conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    conference: <strong>Comparative Political Studies</strong>, 2024.
+    Preprint: https://chengyuanji.wordpress.com/wp-content/uploads/2024/08/ji-and-ma-cps.pdf
+    PDF: https://chengyuanji.wordpress.com/wp-content/uploads/2024/08/ji-ma-2024-revolutionaries-for-railways.pdf
+    Appendix: https://journals.sagepub.com/doi/suppl/10.1177/00104140241269843/suppl_file/sj-pdf-1-cps-10.1177_00104140241269843.pdf
+    Replication: https://doi.org/10.7910/DVN/LXHKEV
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Forthcoming    
+
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
