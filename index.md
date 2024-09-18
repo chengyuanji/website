@@ -4,20 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I’m Chengyuan Ji(季程远), an associate professor at Department of comparative politics, School of International and Public Affairs, Shanghai Jiao Tong University.
 
-## Research Interests
+My research interests include political culture and political economy. My work has appeared in Comparative Political Studies, Political Communication, Political Research Quarterly, World Development and other Chinese journals. My research has been funded by the National Social Science Foundation of China. 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+I received my Ph.D. in political science from Peking University. I am also a Visiting Fellow at Harvard University.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
