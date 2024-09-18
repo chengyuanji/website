@@ -2,13 +2,13 @@ main:
 
   - title: Revolutionaries for Railways
     authors:  <strong>Ji Chengyuan</strong>, Xiao Ma
-    conference_short: CPS
-    conference: <strong>Comparative Political Studies</strong>, 2024.
+    jounal_short: CPS
+    jounal: <strong>Comparative Political Studies</strong>, 2024.
+    preprint: https://chengyuanji.wordpress.com/wp-content/uploads/2024/08/ji-and-ma-cps-1.pdf
     pdf: https://chengyuanji.wordpress.com/wp-content/uploads/2024/08/ji-ma-2024-revolutionaries-for-railways.pdf
-    Appendix: https://journals.sagepub.com/doi/suppl/10.1177/00104140241269843/suppl_file/sj-pdf-1-cps-10.1177_00104140241269843.pdf
-    code: https://doi.org/10.7910/DVN/LXHKEV
+    appendix: https://journals.sagepub.com/doi/suppl/10.1177/00104140241269843/suppl_file/sj-pdf-1-cps-10.1177_00104140241269843.pdf
+    replication: https://doi.org/10.7910/DVN/LXHKEV
     image: ./assets/img/map_general.png
-    notes: Forthcoming
 
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
