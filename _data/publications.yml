@@ -29,3 +29,12 @@ main:
     appendix: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956129
     replication: https://doi.org/10.7910/DVN/JNI6TO
     image: ./assets/img/oversea_project_favorability.png
+
+  - title: "Enlightened One-Party Rule? Ideological Differences between Chinese Communist Party Members and the Mass Public"
+    authors: <strong>Ji Chengyuan</strong>, Junyan Jiang
+    conference_short: Political Research Quarterly
+    conference: <strong>Political Research Quarterly</strong>, 2020.
+    pdf: https://chengyuanji.wordpress.com/wp-content/uploads/2019/06/ji-and-jiang-2019.pdf
+    appendix: https://chengyuanji.wordpress.com/wp-content/uploads/2019/06/ji-and-jiang-2019-online-appendix.pdf
+    replication: https://doi.org/10.7910/DVN/TONE1D
+    image: ./assets/img/value_diff_(non)CCP.png
