@@ -4,8 +4,8 @@ main:
     authors:  <strong>Ji Chengyuan</strong>, Xiao Ma
     conference_short: Comparative Political Studies
     conference: <strong>Comparative Political Studies</strong>, 2024.
-    preprint: https://chengyuanji.wordpress.com/wp-content/uploads/2024/08/ji-and-ma-cps-1.pdf
-    pdf: https://chengyuanji.wordpress.com/wp-content/uploads/2024/08/ji-ma-2024-revolutionaries-for-railways.pdf
+    preprint: ./assets/files/ji-and-ma-cps-preprint.pdf
+    pdf: ./assets/files/ji-ma-2024-revolutionaries-for-railways-CPS.pdf
     appendix: https://journals.sagepub.com/doi/suppl/10.1177/00104140241269843/suppl_file/sj-pdf-1-cps-10.1177_00104140241269843.pdf
     replication: https://doi.org/10.7910/DVN/LXHKEV
     image: ./assets/img/map_general.png
@@ -15,7 +15,7 @@ main:
     authors: <strong>Ji Chengyuan</strong>, Junyan Jiang, Yujin Zhang
     conference_short: World Development
     conference: <strong>World Development</strong>, 2024.
-    pdf: https://chengyuanji.wordpress.com/wp-content/uploads/2024/07/ji-jiang-zhang-2024.pdf
+    pdf: ./assets/files/ji-jiang-zhang-2024-political-trust-and-covid-WD.pdf
     appendix: https://ars.els-cdn.com/content/image/1-s2.0-S0305750X23003170-mmc1.pdf
     replication: https://doi.org/10.7910/DVN/KCIAHC
     image: ./assets/img/politicaltrust2019.png
@@ -25,7 +25,7 @@ main:
     conference_short: Political Communication
     conference: <strong>Political Communication</strong>, 2022.
     preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956129
-    pdf: https://chengyuanji.wordpress.com/wp-content/uploads/2022/02/ji-and-liu-2022-political-communication.pdf
+    pdf: ./assets/files/ji-and-liu-2022-state-as-salesman-political-communication.pdf
     appendix: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2956129
     replication: https://doi.org/10.7910/DVN/JNI6TO
     image: ./assets/img/oversea_project_favorability.png
@@ -34,7 +34,7 @@ main:
     authors: <strong>Ji Chengyuan</strong>, Junyan Jiang
     conference_short: Political Research Quarterly
     conference: <strong>Political Research Quarterly</strong>, 2020.
-    pdf: https://chengyuanji.wordpress.com/wp-content/uploads/2019/06/ji-and-jiang-2019.pdf
-    appendix: https://chengyuanji.wordpress.com/wp-content/uploads/2019/06/ji-and-jiang-2019-online-appendix.pdf
+    pdf: ./assets/files/ji-and-jiang-2020-enlightened-one-party-rule-political-research-quarterly.pdf
+    appendix: https://journals.sagepub.com/doi/suppl/10.1177/1065912919850342/suppl_file/online_appendix.pdf
     replication: https://doi.org/10.7910/DVN/TONE1D
     image: ./assets/img/value_diff_(non)CCP.png
