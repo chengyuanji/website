@@ -14,6 +14,6 @@
   <li><autocolor>王浦劬，<b>季程远</b>：《论列举实验在敏感问题调查中的应用——以非制度化政治参与为验证》，《中国软科学》2016年第9期。(List Experiment in Measuring Sensitive Issue——Example from Non-institutionalized Political Participation)</autocolor><a href="./assets/files/王浦劬-季程远-2016-列举实验-中国软科学.pdf">[PDF]</a></li>
   <li><autocolor>孟天广，<b>季程远</b>：《重访数字民主:互联网介入与网络政治参与——基于列举实验的发现》，《清华大学学报（哲学社会科学版）》2016年第4期。(The Era of Digital Democracy? Internet Involvement and Online Political Participation: Evidence from a List Experiment)</autocolor><a href="./assets/files/孟天广-季程远-2016-互联网介入与网络政治参与-列举实验-清华大学学报.pdf">[PDF]</a></li>
   <li><autocolor>江卓，<b>季程远</b>：《怎样测量腐败:国内外腐败测量方法述评》，《新视野》2016年第3期。(How to Measure Corruption: A Review of the Methods to Measure Corruption)</autocolor><a href="./assets/files/季程远-2016-测量腐败-新视野.pdf">[PDF]</a></li>
-  <li><autocolor>郎友兴，<b>季程远</b>：《微博政治参与的作用机制研究——基于对浙江大学学生的调查》，《中国治理评论》2014年第2期。(Weibo’s Role in Enabling Political Participation)</autocolor><a href="./assets/files/季程远-郎友兴-2014-微博政治参与-浙江大学-中国治理评论.pdf">[PDF]</a></li>
+  <li><autocolor><b>季程远</b>，郎友兴：《微博政治参与的作用机制研究——基于对浙江大学学生的调查》，《中国治理评论》2014年第2期。(Weibo’s Role in Enabling Political Participation)</autocolor><a href="./assets/files/季程远-郎友兴-2014-微博政治参与-浙江大学-中国治理评论.pdf">[PDF]</a></li>
 
 </ul>
