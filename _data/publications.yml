@@ -5,7 +5,7 @@ main:
     conference_short: Comparative Political Studies
     conference: <strong>Comparative Political Studies</strong>, 2024.
     preprint: ./assets/files/ji-and-ma-cps-preprint.pdf
-    pdf: ./assets/files/ji-ma-2024-revolutionaries-for-railways-CPS.pdf
+    pdf: https://journals.sagepub.com/eprint/BGV3NREWXENCMI4QZDTP/full
     appendix: https://journals.sagepub.com/doi/suppl/10.1177/00104140241269843/suppl_file/sj-pdf-1-cps-10.1177_00104140241269843.pdf
     replication: https://doi.org/10.7910/DVN/LXHKEV
     image: ./assets/img/map_general.png
